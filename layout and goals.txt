@@ -1,0 +1,9 @@
+getLook = async () => { --->
+Lookup a tv showo or movie by name and retrieve its availability
+
+
+getId = async () => { -----> Find WHERE to find a movie
+using common ID's like NETFLIX, IMDB, etc
+
+GIVE FUNCTIONALITY TO THE HANDLESEARCH
+
